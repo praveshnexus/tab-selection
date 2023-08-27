@@ -4,4 +4,4 @@ When you click on a tab, the title will be changed accordingly. We will also add
 To implement this, we will use JavaScript to dynamically update the content.
 We will style the tabs and create the hovering effect using CSS and the :hover pseudo-class to apply different styles when the user hovers over each tab.
 
-[Demo]()
+[Demo](https://praveshnexus.github.io/tab-selection/)
